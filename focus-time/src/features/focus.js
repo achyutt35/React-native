@@ -65,8 +65,6 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     flexDirection: 'row',
     fontWeight:'Bold',
-    // fontSize: fontSizes.xl,
-    // backgroundColor:colors.white
   },
   text: {
     color: colors.white,

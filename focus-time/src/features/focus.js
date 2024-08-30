@@ -50,7 +50,7 @@ const styles = StyleSheet.create({
   textInput: {
     flex: 1,
     marginRight: 10,
-    fontSize: '20'
+    // fontSize: '20'
   },
   inputContainer: {
     padding:10,
@@ -65,7 +65,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     flexDirection: 'row',
     fontWeight:'Bold',
-    fontSize: fontSizes.xl,
+    // fontSize: fontSizes.xl,
     // backgroundColor:colors.white
   },
   text: {
